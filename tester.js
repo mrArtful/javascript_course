@@ -62,3 +62,4 @@ increaseMileage(myCar);
 increaseMileage(myCar);
 increaseMileage(myCar);
 console.log(myCar);
+console.log('hello');
